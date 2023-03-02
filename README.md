@@ -29,7 +29,7 @@ You can also alternatively run Sudoku-GUI-Solver in Gitpod, a free online dev en
 If you want to run the game GUI locally on your machine then you need `python` installed on your machine.      
 `python -m pip install pygame` in the command prompt to install the dependency needed.        
 Voila that's all you need!...            
-Now you can just clone the repo remotely on your PC or just download the zip file of this repo wherever on your PC and then just double click on `A-star.exe` 
+Now you can just clone the repo remotely on your PC or just download the zip file of this repo wherever on your PC and then just double click on `a-star.exe` 
 which is an executable file. This brings up the game window!
 ##  Enjoy visualizing the A* star algorithm
 
