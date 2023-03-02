@@ -5,10 +5,10 @@
    
 Every time the program is executed, a random grid is created and the user can mark the Start and End Points on the grid for the algorithm to search from-Source to-Desination.     
 Once the the user has marked the Start and End Points, the user can then place obstacles on the grid by (left-click)dragging anywhere on the grid.
-You can also press the `r` key to load random obstacles into the grid.
-After the obstacles are placed, the user can then press the spacebar.
+   You can also press the `r` key to load random obstacles into the grid.
+   After the obstacles are placed, the user can then press the spacebar.
 
-This will commence a visual that demonstrates how the A* path finding algorithm is searching for the Dest node
+This will commence a visual that demonstrates how the A* path finding algorithm is searching for the Dest node.
 Finally if the Dest node is reached from Source, The optimal path using the A* algorithm will be displayed on the grid.
 
 You can also press the `c` key to clear up the board for a new Entry.
